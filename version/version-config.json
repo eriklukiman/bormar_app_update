@@ -1,7 +1,7 @@
 {
   "ios": {
-    "minVersion": "3.20.44",
-    "latestVersion": "3.20.44",
+    "minVersion": "3.20.48",
+    "latestVersion": "3.20.48",
     "storeUrl": "https://apps.apple.com/id/app/my-borobudur-marathon/id1561751563",
     "updateMessage": {
       "soft": "A new version with improvements is available.",
@@ -9,8 +9,8 @@
     }
   },
   "android": {
-    "minVersion": "3.20.44",
-    "latestVersion": "3.20.44",
+    "minVersion": "3.20.48",
+    "latestVersion": "3.20.48",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.borobudurmarathon.app&hl=id",
     "updateMessage": {
       "soft": "A new version with improvements is available.",
