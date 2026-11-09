@@ -9,8 +9,8 @@
     }
   },
   "android": {
-    "minVersion": "3.20.56",
-    "latestVersion": "3.20.56",
+    "minVersion": "3.20.68",
+    "latestVersion": "3.20.68",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.borobudurmarathon.app&hl=id",
     "updateMessage": {
       "soft": "A new version with improvements is available.",
